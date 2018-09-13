@@ -9,3 +9,9 @@ Et les voilà perdu dans le vim entre les mondes.
 
 "Mais comment sortir de là", s'exclame Bruce ...
 
+"Je ne sais pas du tout!! Que s'est il passé?" demanda August.
+
+Les deux personnages voulèrent sortir de la machine, mais il y a un problème..
+
+La machine est dans l'espace ! s'exclamèrent August et Bruce.
+
