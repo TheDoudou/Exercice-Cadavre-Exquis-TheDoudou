@@ -1,4 +1,4 @@
-# La vim ou la mort 
+﻿# La vim ou la mort 
 August croyait aux théories des univers multiples, il affirmait : " C'est de la physique pur tu veux voir ma machine ? " .
 Bruce lui n'y croyait pas trop : " Mais comment est-ce possible ? " .
 
@@ -14,4 +14,8 @@ Et les voilà perdu dans le vim entre les mondes.
 Les deux personnages voulèrent sortir de la machine, mais il y a un problème..
 
 La machine est dans l'espace ! s'exclamèrent August et Bruce.
+
+Plus le temps passait plus l'air se *rafraichissait*, et le plus le bruit de la vitre qui se brisait **s'intensifiait**.
+
+C'est a ce moment qu'apparu ..
 
